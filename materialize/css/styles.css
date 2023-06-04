@@ -1,0 +1,19 @@
+main {
+  background-color: yellow;
+}
+
+main > section {
+    height: 300px;
+}
+
+main > section:first-child {
+  background-color: lightgreen;
+}
+
+main > section:nth-child(2) {
+  background-color: lightblue;
+}
+
+main > section:last-child {
+  background-color: lightcoral;
+}
