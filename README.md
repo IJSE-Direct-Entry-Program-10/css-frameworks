@@ -1,4 +1,5 @@
 # CSS Frameworks
+A collection of projects to explore some famous CSS frameworks
 
 ### Outline
 - [Bootstrap](bootstrap/)
